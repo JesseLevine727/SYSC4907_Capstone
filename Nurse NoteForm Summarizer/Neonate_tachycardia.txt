@@ -1,0 +1,5 @@
+Patient Jane Doe is a 24‐day‐old, 3.8‑kg neonate. Over the course of the recorded shift, her heart rate ranged from 169 bpm to 193 bpm. Almost all readings exceeded the upper limit for neonates, indicating persistent tachycardia. Her respiratory rate varied between 34 and 94 breaths per minute. Although a few measurements (for example, 34–43 breaths/min) fell within the expected range, the majority were well above the normal ceiling, consistent with episodes of tachypnea.
+
+Her body temperature remained stable, hovering between approximately 36.6°C and 37.4°C, and pain levels were low throughout. Interventions documented include scheduled diaper changes, several position changes (with noted adjustments to supine and prone positions), and at one point oxygen administration with an increase in flow.
+
+This summary should provide you with the key trends and interventions performed during the previous shift. Please continue to monitor for ongoing tachycardia and tachypnea and address any further interventions as required.

@@ -1,0 +1,84 @@
+Summarize the status of the patient
+
+Patient Summary:
+
+Patient ID: Kate, Female, Post-Conceptual Age: 32/1 Weeks/Days, Weight: 3.01 kg
+
+Heart Rate:
+The patient's heart rate ranged from 113 bpm to 150 bpm during the monitoring period. The heart rate was consistently below the normal range, indicating bradycardia, with occasional readings within the normal range.
+
+Respiratory Rate:
+The respiratory rate ranged from 28 breaths/min to 102 breaths/min. The readings varied, with instances of both bradypnea and tachypnea observed.
+
+Interventions:
+- Multiple position changes (e.g., supine, left lateral, right lateral).
+- Pain management interventions included swaddling and providing non-nutritive sucking.
+- Diaper changes were scheduled and performed.
+- Lighting adjustments were made to dim lights.
+- Oxygen administration involved increasing the flow.
+
+Pain Level:
+The patient's pain levels varied from low to high throughout the monitoring period, with interventions applied as necessary to manage pain.
+
+Body Temperature:
+Body temperature remained relatively stable, ranging from 36.5°C to 37.4°C, with minor fluctuations.
+
+The incoming nurse should continue monitoring vital signs closely, especially focusing on maintaining heart rate and respiratory rate within normal ranges, and continue implementing pain management strategies as needed. Regular interventions and assessments should be maintained according to the patient's condition.
+
+
+List every instance of Bradycardia
+
+1. Timestamp: 2024-11-29 01:16:33, Heart Rate: 122 bpm
+2. Timestamp: 2024-11-29 01:26:33, Heart Rate: 122 bpm
+3. Timestamp: 2024-11-29 01:36:33, Heart Rate: 117 bpm
+4. Timestamp: 2024-11-29 02:16:33, Heart Rate: 120 bpm
+5. Timestamp: 2024-11-29 02:46:33, Heart Rate: 123 bpm
+6. Timestamp: 2024-11-29 02:51:33, Heart Rate: 124 bpm
+7. Timestamp: 2024-11-29 02:56:33, Heart Rate: 123 bpm
+8. Timestamp: 2024-11-29 03:06:33, Heart Rate: 124 bpm
+9. Timestamp: 2024-11-29 03:11:33, Heart Rate: 118 bpm
+10. Timestamp: 2024-11-29 03:16:33, Heart Rate: 141 bpm (Note: This is on the lower bound)
+11. Timestamp: 2024-11-29 03:21:33, Heart Rate: 133 bpm
+12. Timestamp: 2024-11-29 03:31:33, Heart Rate: 126 bpm
+13. Timestamp: 2024-11-29 03:36:33, Heart Rate: 123 bpm
+14. Timestamp: 2024-11-29 03:41:33, Heart Rate: 124 bpm
+15. Timestamp: 2024-11-29 03:46:33, Heart Rate: 125 bpm
+16. Timestamp: 2024-11-29 03:56:33, Heart Rate: 134 bpm
+17. Timestamp: 2024-11-29 04:01:33, Heart Rate: 124 bpm
+18. Timestamp: 2024-11-29 04:06:33, Heart Rate: 114 bpm
+19. Timestamp: 2024-11-29 04:11:33, Heart Rate: 126 bpm
+20. Timestamp: 2024-11-29 04:21:33, Heart Rate: 120 bpm
+21. Timestamp: 2024-11-29 04:26:33, Heart Rate: 138 bpm
+22. Timestamp: 2024-11-29 04:31:33, Heart Rate: 136 bpm
+23. Timestamp: 2024-11-29 04:36:33, Heart Rate: 124 bpm
+24. Timestamp: 2024-11-29 04:41:33, Heart Rate: 120 bpm
+25. Timestamp: 2024-11-29 04:46:33, Heart Rate: 130 bpm
+26. Timestamp: 2024-11-29 04:56:33, Heart Rate: 125 bpm
+27. Timestamp: 2024-11-29 05:01:33, Heart Rate: 124 bpm
+28. Timestamp: 2024-11-29 05:06:33, Heart Rate: 119 bpm
+29. Timestamp: 2024-11-29 05:11:33, Heart Rate: 130 bpm
+30. Timestamp: 2024-11-29 05:16:33, Heart Rate: 129 bpm
+31. Timestamp: 2024-11-29 05:21:33, Heart Rate: 119 bpm
+32. Timestamp: 2024-11-29 05:26:33, Heart Rate: 128 bpm
+33. Timestamp: 2024-11-29 05:31:33, Heart Rate: 118 bpm
+34. Timestamp: 2024-11-29 05:41:33, Heart Rate: 128 bpm
+35. Timestamp: 2024-11-29 05:46:33, Heart Rate: 137 bpm
+36. Timestamp: 2024-11-29 05:51:33, Heart Rate: 130 bpm
+37. Timestamp: 2024-11-29 06:01:33, Heart Rate: 126 bpm
+38. Timestamp: 2024-11-29 06:06:33, Heart Rate: 126 bpm
+39. Timestamp: 2024-11-29 06:11:33, Heart Rate: 124 bpm
+40. Timestamp: 2024-11-29 06:16:33, Heart Rate: 122 bpm
+41. Timestamp: 2024-11-29 06:21:33, Heart Rate: 125 bpm
+42. Timestamp: 2024-11-29 06:26:33, Heart Rate: 136 bpm
+43. Timestamp: 2024-11-29 06:31:33, Heart Rate: 131 bpm
+44. Timestamp: 2024-11-29 06:36:33, Heart Rate: 124 bpm
+45. Timestamp: 2024-11-29 06:41:33, Heart Rate: 126 bpm
+46. Timestamp: 2024-11-29 06:46:33, Heart Rate: 130 bpm
+47. Timestamp: 2024-11-29 06:51:33, Heart Rate: 148 bpm
+48. Timestamp: 2024-11-29 07:06:33, Heart Rate: 121 bpm
+49. Timestamp: 2024-11-29 07:16:33, Heart Rate: 145 bpm
+50. Timestamp: 2024-11-29 07:21:33, Heart Rate: 125 bpm
+51. Timestamp: 2024-11-29 07:26:33, Heart Rate: 136 bpm
+52. Timestamp: 2024-11-29 07:31:33, Heart Rate: 141 bpm (Note: This is on the lower bound)
+53. Timestamp: 2024-11-29 07:36:33, Heart Rate: 115 bpm
+54. Timestamp: 2024-11-29 07:41:33, Heart Rate: 137 bpm
