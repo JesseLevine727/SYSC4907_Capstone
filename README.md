@@ -19,10 +19,7 @@ The project builds upon previous work from the CUBIC lab and extends it by incor
   - [LangSmith Evaluators](#langsmith-evaluators)
   - [Manual Evaluation Metrics](#manual-evaluation-metrics)
 - [Evaluation Setup](#evaluation-setup)
-- [Installation and Usage](#installation-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
 
 ---
 
